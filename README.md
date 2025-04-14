@@ -45,8 +45,6 @@ This project:
 
 ### 2. Upload Input Files to S3
 
-📷 _Screenshot of uploading `prompt.txt` or similar_
-
 - Go into the bucket → Click **Upload**
 - Upload your prompt file(s), e.g., `prompt1.txt`, `summary_request.txt`
 
